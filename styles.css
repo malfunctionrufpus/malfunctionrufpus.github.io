@@ -1,0 +1,43 @@
+h1 {
+    color: darkred;
+    font-weight: 900;
+    text-shadow: 0 0 9px white;
+    font-size: 50px;
+    font-family: Papyrus;
+}
+body {
+    background-image: url(https://i.pinimg.com/originals/f9/4a/6a/f94a6a51eb011f5e3658edc26beab86d.png);
+    background-repeat: repeat;
+    background-size: 300px;
+    background-color: darkolivegreen;
+    margin: 30px;
+    background-blend-mode:exclusion;
+    background-attachment: fixed
+}
+
+img {
+    box-shadow: 8px 8px 10px #ff00e2;
+}
+
+
+.intro {
+    color: orange;
+    font-family: Jokerman;
+    border-style: groove;
+    border-width: 5px;
+    border-color: aqua;
+    padding: 3px;
+}
+
+.catName {
+    color: fuchsia;
+    font-size: 30px;
+    margin: 8px;
+}
+
+.catText {
+    color: pink;
+    font-size: 28px;
+    margin: 8px;
+    text-shadow: 5px 2px 2p99x aqua;
+}
