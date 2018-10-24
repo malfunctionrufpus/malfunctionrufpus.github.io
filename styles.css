@@ -17,6 +17,7 @@ body {
 
 img {
     box-shadow: 8px 8px 10px #ff00e2;
+    border-radius: 1000px;
 }
 
 
@@ -41,4 +42,22 @@ img {
     margin: 8px;
     margin-bottom: 40px;
     text-shadow: 5px 2px 2px aqua;
+}
+.background {
+    position: absolute;
+    background-color: brown;
+    width: 1500px;
+    height: 90000px;
+    top: -500px;
+    left: 500px;
+    opacity: 0.333;
+}
+.backgrounde {
+    position: absolute;
+    background-color: royalblue;
+    width: 1500px;
+    height: 90000px;
+    top: -500px;
+    left: 1250px;
+    opacity: 0.666;
 }
